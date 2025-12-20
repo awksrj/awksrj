@@ -46,7 +46,7 @@
 ## 🚀 Projects
 
 - **[Web Photobooth](https://github.com/awksrj/web-photobooth-0)** — Online photobooth capture platform  
-- **[SyllabusSync](https://github.com/awksrj/syllabus-sync)** — Automated syllabus extraction and Notion sync  
+- **[SyllabusSync](https://github.com/awksrj/SyllabusSync)** — Automated syllabus extraction and Notion sync  
 - **[Trip or Treat](https://github.com/LeLeDreams/TriporTreaTv2)** — Interactive travel and dining analytics dashboard with hybrid recommendations  
 - **[Mobile App Market Analysis](https://github.com/awksrj/app-profit-insights)** — App Store and Google Play market and engagement analysis  
 
